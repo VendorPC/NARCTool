@@ -4,11 +4,16 @@ NARCTool GUI 0.4
 Changelog:
 
 Some scripts were optimized
+
 About popup has been updated
+
 An error popup has been added to "Compile" and "Compile and Compress" upon failure
+
 A bug causing NARCTool GUI to continue running in the background when closing with the X button has been fixed
+
 An .exe version of NARCTool GUI 0.4 has been compiled for Windows users
 
+# Below are previous update notes
 
 NARCTool GUI 0.3
 
@@ -18,7 +23,7 @@ Credits to Vendor for dumping the source code.
 A GUI has been created in favor of multiple scripts
 If you wish to continue using individual scripts please use version 0.2-p
 
-Below are previous update notes
+
 
 
 NARCTool 0.2-p - modified by FrankieD, Vendor, and Zekromaegis
