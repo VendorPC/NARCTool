@@ -43,7 +43,7 @@ Although they are very rarely used I included Compress/Decompress variants of th
 
 Should either script not function as expected run NARCTool.py in Windows CMD or a CMD equivalent
 
-###narctool 0.1-p
+### narctool 0.1-p
 
 This modified version of narctool has been made so that it works with
 
@@ -53,7 +53,7 @@ creating files named (narc_name).(file_number).(file_type)
 
 Refer to the original readme, below:
 
-###narctool 0.1 - by natrium42
+### narctool 0.1 - by natrium42
 
 Tool for working with NARC and compressed NARC files (CARC files).
 
