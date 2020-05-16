@@ -1,5 +1,10 @@
+# Version History
 
-# NARCTool GUI 0.4 - maintained by FrankieD
+# NARCTool 0.4
+
+### Updated and maintained by FrankieD
+
+#### An .exe version that does not require Python has been compiled for Windows users.
 
 Changelog:
 
@@ -11,17 +16,17 @@ An error popup has been added to "Compile" and "Compile and Compress" upon failu
 
 A bug causing NARCTool GUI to continue running in the background when closing with the X button has been fixed
 
-An .exe version of NARCTool GUI 0.4 has been compiled for Windows users
+# NARCTool 0.3
 
-## Below are previous update notes
+### Credits to FrankieD for creating the GUI and custom scripts
 
-### NARCTool GUI 0.3
+A GUI has been created in favor of multiple scripts
 
-Credits to FrankieD for making the GUI and custom scripts. Credits to Vendor for dumping the source code.
+If you wish to continue using individual scripts please use version 0.2-p
 
-A GUI has been created in favor of multiple scripts. If you wish to continue using individual scripts please use version 0.2-p
+# NARCTool 0.2-p
 
-### NARCTool 0.2-p - modified by FrankieD, Vendor, and Zekromaegis
+### Modified by FrankieD, Vendor, and Zekromaegis
 
 Simplified scripts were created for quicker use
 
@@ -43,7 +48,9 @@ Although they are very rarely used I included Compress/Decompress variants of th
 
 Should either script not function as expected run NARCTool.py in Windows CMD or a CMD equivalent
 
-### narctool 0.1-p
+# narctool 0.1-p
+
+### This is the original, untouched source code dumped by Vendor. Only use this version if you plan to modify the source code yourself. Below is the readme included in the dump of 0.1-p.
 
 This modified version of narctool has been made so that it works with
 
@@ -53,7 +60,7 @@ creating files named (narc_name).(file_number).(file_type)
 
 Refer to the original readme, below:
 
-### narctool 0.1 - by natrium42
+narctool 0.1 - by natrium42
 
 Tool for working with NARC and compressed NARC files (CARC files).
 
