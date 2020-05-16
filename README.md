@@ -1,4 +1,4 @@
-### This is the original, untouched source code dumped by Vendor. Only download this version if you plan to modify the source code yourself. Below is the readme included in the dump of 0.1-p.
+### This is the original, untouched source code dumped by Vendor. Only download this version if you plan to modify the source code yourself. Below is the readme included in Vendor's dump
 
 This modified version of narctool has been made so that it works with
 
