@@ -1,5 +1,4 @@
-
-# narctool 0.1-p
+### This is the original, untouched source code dumped by Vendor. Only download this version if you plan to modify the source code yourself. Below is the readme included in the dump of 0.1-p.
 
 This modified version of narctool has been made so that it works with
 
@@ -7,9 +6,9 @@ filename-less NARC files like those in Pokemon Diamond and Pearl by
 
 creating files named (narc_name).(file_number).(file_type)
 
-## Refer to the original readme, below:
+Refer to the original readme, below:
 
-# narctool 0.1 - by natrium42
+narctool 0.1 - by natrium42
 
 Tool for working with NARC and compressed NARC files (CARC files).
 
