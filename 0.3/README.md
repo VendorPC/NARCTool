@@ -1,3 +1,5 @@
+# Original tool developed by PlatinumMaster
+
 # NARCTool 0.3
 
 ### Credits to FrankieD for creating the GUI and custom scripts
