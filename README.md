@@ -1,3 +1,5 @@
+# Original tool developed by PlatinumMaster
+
 # Version History
 
 # NARCTool 0.4
