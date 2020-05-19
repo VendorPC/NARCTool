@@ -1,3 +1,5 @@
+# Original tool developed by PlatinumMaster
+
 ### This is the original, untouched source code dumped by Vendor. Only use this version if you plan to modify the source code yourself. Below is the readme included in Vendor's dump
 
 This modified version of narctool has been made so that it works with
