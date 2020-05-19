@@ -1,3 +1,5 @@
+# Original tool developed by PlatinumMaster
+
 # NARCTool 0.4
 
 ### Updated and maintained by FrankieD
