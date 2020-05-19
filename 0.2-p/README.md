@@ -1,3 +1,5 @@
+# Original tool developed by PlatinumMaster
+
 # NARCTool 0.2-p
 
 ### Modified by FrankieD, Vendor, and Zekromaegis
